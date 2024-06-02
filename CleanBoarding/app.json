@@ -1,0 +1,17 @@
+{
+  "name": "CleanBoarding",
+  "displayName": "CleanBoarding",
+  "plugins": [
+    "expo-font"
+  ], 
+  "expo": {
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": ["path/to/file.ttf"]
+        }
+      ]
+    ]
+  }
+}
